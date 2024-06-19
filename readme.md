@@ -1,8 +1,8 @@
 # Interview Agent
 
-# PRJECT TEAM:
-lead ==  @umer
-co-lead == @yasir23
+# PROJECT TEAM:
+Lead ==  @umer
+Co-lead == @yasir23
 
 ## Introduction:
 
